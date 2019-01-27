@@ -32,9 +32,18 @@ export default {
             appTitle: 'Covenant Faith Center Church',
             drawer: false,
             items: [
-                { title: 'Menu' },
-                { title: 'Sign In' },
-                { title: 'Join' }
+                { title: 'Home' },
+                { title: 'What We Believe' },
+                { title: 'About Our Pastors' },
+                { title: 'Ministries'},
+                { title: 'Bookstore'},
+                { title: 'Corresponence School'},
+                { title: 'Schedule, Events, Map'},
+                { title: 'Giving and Partnership'},
+                { title: 'Shopping Cart'},
+                { title: 'Ministry Invitations'},
+                { title: 'Testimonies'},
+                { title: 'Healing School'},
             ]
         };
     }

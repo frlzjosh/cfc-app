@@ -16,3 +16,6 @@ export default {
     components: {navigation}
 };
 </script>
+<style lang="scss" scoped>
+    @import './assets/_app.scss'
+</style>
